@@ -1,0 +1,28 @@
+body{
+background-image: url(/_imagens/VAAAIII\ GOKU.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+    text-align: center;
+    background-color: darkred;
+    font-family: sans-serif;
+    border-style: dotted;
+    border-radius: 8px;
+    margin-top: -6px;
+}
+
+
+label, legend{
+    color: white;
+    margin-top: -6px;
+}
+
+
+input{
+    border-radius: 7px;
+    width: 50%;
+    height: 31px;
+    
+}
