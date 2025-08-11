@@ -1,10 +1,10 @@
-body{
-background-image: url(../_imagens/VAAAIII\ GOKU.jpg);
-background-repeat: no-repeat;
-background-size: cover;
+body {
+    background-image: url(../_imagens/VAAAIII\ GOKU.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-h1{
+h1 {
     text-align: center;
     background-color: darkred;
     font-family: sans-serif;
@@ -14,50 +14,49 @@ h1{
 }
 
 
-label, legend{
+label,
+legend {
     color: white;
     margin-top: -6px;
 }
 
 
-.registro{
+.registro {
     border-radius: 7px;
     width: 50%;
     height: 31px;
 
 }
 
-.planeta{
+.planeta {
     border-radius: 7px;
     width: 25%;
     height: 28px;
-    
+
 }
 
-fieldset{
+fieldset {
     border-color: red;
-    border-width: 5px ;
+    border-width: 5px;
     color: white;
     margin-top: 16px;
 }
 
-.dadosE{
-    
-}
+.dadosE {}
 
-.raça{
+.raça {
     border-radius: 7px;
     width: 25%;
     height: 28px;
 }
 
 
-textarea{
+textarea {
     width: 30%;
     height: 30%;
 }
 
-.button{
+.button {
     height: 40px;
     width: 5%;
     border-radius: 7px;
