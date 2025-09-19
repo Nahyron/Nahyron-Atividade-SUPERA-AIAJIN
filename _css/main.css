@@ -28,7 +28,7 @@ legend {
 
 }
 
-.planeta {
+#planeta {
     border-radius: 7px;
     width: 25%;
     height: 28px;
@@ -42,7 +42,7 @@ fieldset {
     margin-top: 16px;
 }
 
-.dadosE {}
+
 
 .raça {
     border-radius: 7px;
@@ -56,9 +56,14 @@ textarea {
     height: 30%;
 }
 
-.button {
+#button {
     height: 40px;
     width: 5%;
     border-radius: 7px;
     background-color: blueviolet;
+}
+
+input[type=text]:focus,
+input[type=number]:focus {
+    background-color: lightpink;
 }
